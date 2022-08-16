@@ -8,6 +8,11 @@ public class Day3GitGitHub {
         System.out.println("Mustafa branch");
         System.out.println("Mustafa calisma");
 
+        System.out.println("Deneme");
+
+        System.out.println("gitignore");
+
+
 
 
 
